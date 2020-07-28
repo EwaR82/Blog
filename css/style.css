@@ -45,12 +45,12 @@ body {
 }
 
 .sidebar {
-  -ms-flex: 1 0 0 px;
+  -ms-flex: 1 0 0px;
       flex: 1 0 0;
 }
 
 .posts {
-  -ms-flex: 2 0 0 px;
+  -ms-flex: 2 0 0px;
       flex: 2 0 0;
 }
 
